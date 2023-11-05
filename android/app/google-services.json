@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760451506115",
+    "project_id": "xupchat-30f0e",
+    "storage_bucket": "xupchat-30f0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760451506115:android:dc11832054c6e4b05de776",
+        "android_client_info": {
+          "package_name": "com.example.xup_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTjvt3gwoCOMtxmtBTXOFRREXd598t_Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
